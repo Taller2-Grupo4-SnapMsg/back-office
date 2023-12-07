@@ -31,11 +31,11 @@ By clicking on "SERVICE STATUS" on the lateral menu, you will be redirected to t
 By clicking on "REGISTRATION METRICS", you will see the total number of registrations by email and the average time of registration. You can also filter by date.
 
 ### Login 
-Click on "LOGIN METRICS" to view comprehensive statistics, including the total count of successful and failed logins. Additionally, you can explore the breakdown of successful and failed logins categorized by email, Google, and biometrics. The option to filter results by date is also available for your convenience.
+By clicking on "LOGIN METRICS" to view comprehensive statistics, including the total count of successful and failed logins. Additionally, you can explore the breakdown of successful and failed logins categorized by email, Google, and biometrics. The option to filter results by date is also available for your convenience.
 
 ### Block 
 By clicking on "BLOCK METRICS", you will see the total number of blocks now and in the date range you selected. 
 
 ### Geo-location
-Click on "GEO-LOCATION METRICS" to view the number of users registered in each country. You can also filter by top  n countries. 
+By clicking on "GEO-LOCATION METRICS" to view the number of users registered in each country. You can also filter by top  n countries. 
 
