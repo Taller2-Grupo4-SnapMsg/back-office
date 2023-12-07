@@ -6,7 +6,7 @@ weight: 1
 ---
 
 # Admins Guide
-This is the guide for the Back-Office webpage of SnapMsg. 
+This is the guide for the [Back-Office webpage of SnapMsg](https://loginfront-mtrx.onrender.com/). 
 
 ## Users list
 The users list is the first page you will see when you log in. It contains a list of all the users registered in the system. You can search for a specific user by typing in the search bar. 
