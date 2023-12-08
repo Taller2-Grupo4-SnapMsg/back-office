@@ -10,6 +10,12 @@ include_in_header: true
 
 We are a group of students from the University of Buenos Aires, Argentina, who are currently studying Computer Science. This project was developed as part of the course "Taller de Programación II" (Programming Workshop II) during the second semester of 2023.
 
+# Post mortem Analysis
+You can find a post mortem for this project on [this](https://drive.google.com/drive/u/1/folders/1yn6f-3I90Dielaxr-YatiNtqjEmBTyf1) link. You need a mail associated with FIUBA (Facultad de Ingeniería de la Universidad de Buenos Aires)
+
+# Technical Documentation
+All information needed to run and develop on each of the microservices is on the READMEs of each repository.
+
 ## Team Members
 
 ![GithubIcon](../assets/github.svg) <span style="margin-right: 10px;margin-top: 20px;"></span> [Nathalia Encinoza](https://github.com/nathencinoza)

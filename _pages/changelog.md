@@ -38,4 +38,3 @@ By clicking on "BLOCK METRICS", you will see the total number of blocks now and 
 
 ### Geo-location
 By clicking on "GEO-LOCATION METRICS" to view the number of users registered in each country. You can also filter by top  n countries. 
-
